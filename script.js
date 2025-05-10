@@ -88,3 +88,5 @@ function playGame() {
     humanScore = 0;
     computerScore = 0;
 }
+
+playGame();
